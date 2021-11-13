@@ -1,0 +1,21 @@
+{
+    "name": "greenorangecontrast",
+    "displayName": "GreenOrangeContrast",
+    "description": "A pleasant and easy on the eyes Green & Orange theme for VS Code",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.62.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Green Orange Contrast",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Green Orange Contrast-color-theme.json"
+            }
+        ]
+    }
+}
